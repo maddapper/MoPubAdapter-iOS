@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FSMoPubAdapter-iOS"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "MoPub Adapter (DFP) for Freestar Ad SDK."
   s.description  = "MoPub adapter dependency for the Freestar Ad SDK."
   s.homepage     = "https://freestar.io"
